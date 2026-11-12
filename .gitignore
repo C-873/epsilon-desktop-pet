@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+._python/
+*.log
+build/
+dist/
+*.spec
+*.exe
+Claude-Fable-5-1_API_key
